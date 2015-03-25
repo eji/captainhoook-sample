@@ -1,0 +1,16 @@
+{
+    "scripts": [
+        {
+            "command": "ls",
+            "args": [
+                "-l",
+                "-a"
+            ]
+        },
+        {
+            "command": "./endpoint-scripts/sample1.sh",
+            "args": [
+            ]
+        }
+    ]
+}
